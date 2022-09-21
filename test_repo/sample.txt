@@ -1,0 +1,2 @@
+test text file 
+how to use git
